@@ -1,3 +1,4 @@
+# KR2: Kondratenko
 import os
 import socket
 
